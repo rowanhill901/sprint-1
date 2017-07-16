@@ -1,0 +1,11 @@
+The command line is the tool that speaks directly to the computer instead of having to navigate with the mouse and clicking you use commands instead.
+dir , list files
+cd {directory name} , change directory
+cd / , go to root (top) directory
+cd .. , go up a level
+mkdir {file name} , make a directory
+echo > {filename} , create an empty file
+del {filename} , remove a file
+rmdir {directory name} , remove a directory and all files within
+rename {filename} {new filename} , rename a file or folder
+start {filename} , open file in default program
